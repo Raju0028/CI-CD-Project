@@ -1,0 +1,14 @@
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\bin\Debug\net6.0\CI_CD_ConsoleApp.exe
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\bin\Debug\net6.0\CI_CD_ConsoleApp.deps.json
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\bin\Debug\net6.0\CI_CD_ConsoleApp.runtimeconfig.json
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\bin\Debug\net6.0\CI_CD_ConsoleApp.dll
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\bin\Debug\net6.0\CI_CD_ConsoleApp.pdb
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.AssemblyInfo.cs
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.dll
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\refint\CI_CD_ConsoleApp.dll
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.pdb
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\CI_CD_ConsoleApp.genruntimeconfig.cache
+C:\Users\shara\source\repos\CI_CD_ConsoleApp\CI_CD_ConsoleApp\obj\Debug\net6.0\ref\CI_CD_ConsoleApp.dll

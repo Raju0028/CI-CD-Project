@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9ZMECyNtorHI921M1s5qbOlIUjDeW50gRC8vaf6RhZY/OgqmN0c8pGPaFRz6+SF52x2WGhrhGMnhUT2P7N+lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shara\\source\\repos\\CI_CD_ConsoleApp\\CI_CD_ConsoleApp\\CI_CD_ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
